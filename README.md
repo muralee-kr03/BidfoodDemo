@@ -7,7 +7,7 @@ Maven is used as build tool.
 3. Select the foler "bdd-web-automation" and finish the import.
 
 # Run tests locally
-1. Go to package sparksport.co.nz.runner located under src/test/java.
+1. Go to package bidfood.co.nz.runner located under src/test/java.
 2. Select the RunnerClass.java file, right click and select the option Run as Junit Test.
 
 # Run tests through the commandline
